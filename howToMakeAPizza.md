@@ -4,3 +4,4 @@
 4. adiciono  media libra de jamon en pedazos
 5. adiciono media libra de queso rayado
 6. la llevo al horno por 20 minutos a 180°
+7. sacar del horno y partir en 8 pedazos
