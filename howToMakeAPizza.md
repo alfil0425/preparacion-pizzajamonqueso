@@ -1,1 +1,2 @@
-Se compran los ingredientes
+Se compran los ingrediente
+se porcionar los ingredient
