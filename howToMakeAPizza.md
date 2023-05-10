@@ -1,0 +1,1 @@
+Se compran los ingredientes
